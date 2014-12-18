@@ -1,0 +1,10 @@
+Package: ProgrammingAssignement2
+Type: Package
+Title: Compute inverse matrix using cache.
+Version: 1.0
+Date: 2014-12-18
+Author: Emili Masnou
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: Assignement 2 for Coursera R-programming Course. Computing an
+    inverse matrix using cache.
+License: What license is it under?
